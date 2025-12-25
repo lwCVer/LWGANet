@@ -91,7 +91,7 @@ This repository is built using the [timm](https://github.com/rwightman/pytorch-i
 #### Contact me
 If you have any questions about this work, you can contact me. 
 
-Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255.
+Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: luwei_ahu.
 
 Your star is the power that keeps us updating github.
 
