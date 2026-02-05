@@ -107,6 +107,3 @@ If LWGANet is useful or relevant to your research, please kindly recognize our c
 }
 ```
 
-## License
-Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for Non-commercial use only. 
-Any commercial use should get formal permission first.
